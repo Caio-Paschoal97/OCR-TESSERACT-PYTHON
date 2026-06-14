@@ -5,6 +5,7 @@ Recebe uma imagem ou PDF de certificado, extrai o texto com **Tesseract OCR** e 
 
 Desenvolvido com **FastAPI + Python** e hospedado no Render como parte do Projeto Integrador do curso de Desenvolvimento Mobile no SENAC.
 
+link do render : https://ocr-tesseract-python.onrender.com
 ---
 
 ## Sobre o projeto
